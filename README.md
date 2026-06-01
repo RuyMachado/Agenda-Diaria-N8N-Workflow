@@ -29,7 +29,7 @@ Schedule Trigger → Google Calendar → Verifica eventos → Formata mensagem �
 
 🖼️ Exemplo de mensagem recebida no WhatsApp:
 
-![Agenda Diária](images/example.png)
+![Agenda Diária](images/agenda_whatsapp.png)
 
 ---
 
