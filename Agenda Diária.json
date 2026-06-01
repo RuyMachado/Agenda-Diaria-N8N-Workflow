@@ -4,7 +4,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://api.ruylsmachado.com.br/message/sendText/Ruy",
+        "url": "YOUR_EVOLUTION_API_URL/message/sendText/YOUR_INSTANCE_NAME",
         "sendHeaders": true,
         "headerParameters": {
           "parameters": [
